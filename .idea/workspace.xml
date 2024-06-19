@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="769a26cd-c61b-4fc2-a8c9-7b82acbf2c87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FK_JV240219_BS_phanquychau.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/business/DepartmentBusiness.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/business/EmployeeBusiness.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/entity/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/entity/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/entity/IEmployeeManagement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/presentation/EmployeeManagement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/until/ConnectionDB.java" afterDir="false" />
-    </list>
+    <list default="true" id="769a26cd-c61b-4fc2-a8c9-7b82acbf2c87" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +42,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -75,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718796914747</updated>
-      <workItem from="1718796915747" duration="10151000" />
+      <workItem from="1718796915747" duration="10778000" />
     </task>
     <servers />
   </component>
